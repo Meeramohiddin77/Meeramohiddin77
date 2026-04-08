@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">I'm Meera Mohiddin from Nellore, AP<br><br>- 🔭 I’m fresh graduate<br>- 📚 I'm currently learning DevOps with Multi Cloud<br>- ⚡ In my free time I play cricket and watch movies</p>
+<p align="left">I'm Meera Mohiddin from Nellore, AP<br><br>- 🔭 I’m fresh graduate<br>- 📚 I'm aspiring DevOps Engineer<br>- ⚡ In my free time I play cricket and watch movies</p>
 
 ###
 
